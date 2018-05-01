@@ -1,5 +1,5 @@
 # Homework 7 Problem 4
-# Declan Halbert, Tom Cororan, Jim Mortenson 
+# Declan Halbert, Tom Corcoran, Jim Mortenson 
 import random
 import numpy as np
 #-------------------- Test 1 --------------------#
